@@ -1,0 +1,6 @@
+This application is configured via the environment. The following environment
+variables can be used:
+
+KEY                 TYPE             DEFAULT    COMMENT
+ENV_CONFIG_DEBUG    True or False    true       foo
+ENV_CONFIG_PORT     Integer                     
